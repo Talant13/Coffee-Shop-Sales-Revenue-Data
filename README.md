@@ -18,3 +18,4 @@ Understand top products, sales patterns, and unusual revenue spikes affecting pr
 
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
+-
